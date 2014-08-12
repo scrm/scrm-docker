@@ -7,7 +7,7 @@ it offers a high level of reproducibility.
 
 To run scrm with docker, you first need to install 
 [install docker](https://docs.docker.com/installation/#installation), 
-which is available for all major operating system (via vitalization for MAC
+which is available for all major operating system (via virtualization for MAC
 and Windows).
 
 Afterwards, you can pull the container for scrm using
