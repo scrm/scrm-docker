@@ -1,4 +1,4 @@
-scrm-docker
+scrm
 ===========
 
-A docker container containing scrm
+A docker container for scrm.
