@@ -19,14 +19,6 @@ docker pull scrm/scrm
 Now you can run _scrm_ using
 
 ```bash
-docker run scrm/scrm scrm 10 1 -t 5
+docker run scrm/scrm 10 1 -t 5
 ```
 
-This adds a small runtime fee to every execution. If you do a lot of small runs
-with scrm, it is better to start an interactive shell inside the container and
-run scrm from there:
-
-```bash
-docker run -t -i scrm/scrm /bin/bash 
-scrm 10 1 -t 5
-```
