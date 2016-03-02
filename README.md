@@ -10,13 +10,7 @@ To run scrm with docker, you first need to install
 which is available for all major operating system (via vitalization for MAC
 and Windows).
 
-Afterwards, you can pull the container for scrm using
-
-```bash
-docker pull scrm/scrm
-```
-
-Now you can run _scrm_ using
+Afterwards, you run scrm using
 
 ```bash
 docker run scrm/scrm 10 1 -t 5
